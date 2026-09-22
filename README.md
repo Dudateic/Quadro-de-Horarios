@@ -3,17 +3,7 @@
 # Quadro de Horários
 
 > SPA desenvolvida para gerenciamento de cronogramas acadêmicos e pessoais, aplicando conceitos de desenvolvimento Front-End, manipulação do DOM e UX/UI Design.
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-ES6+-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Responsive](https://img.shields.io/badge/Design-Responsivo-FF69B4?style=flat-square)
-![SPA](https://img.shields.io/badge/Arquitetura-SPA-6A5ACD?style=flat-square)
-![Status](https://img.shields.io/badge/status-finalizado-brightgreen?style=flat-square)
-
 </div>
-
----
 
 <p align="center">
   <a href="https://dudateic.github.io/quadro-de-horarios/" target="_blank">
@@ -21,7 +11,6 @@
   </a>
 </p>
 
----
 
 ## Sumário
 
@@ -31,13 +20,11 @@
 - [04 · Considerações Finais](#04--consideracoes-finais)
 
 
----
-
 # 01 · Visão Geral
 
 O **Quadro de Horários** é uma aplicação web desenvolvida como uma **SPA (Single Page Application)** para organização de cronogramas acadêmicos e pessoais.
 
-A aplicação permite criar disciplinas, organizar horários de aulas e visualizar a rotina semanal através de uma interface dinâmica e responsiva.
+A aplicação permite criar disciplinas, organizar horários de aulas e visualizar a rotina semanal através de uma interface responsiva.
 
 O projeto foi desenvolvido com foco no aprendizado de **desenvolvimento Front-End**, explorando:
 
@@ -46,8 +33,6 @@ O projeto foi desenvolvido com foco no aprendizado de **desenvolvimento Front-En
 - Organização de componentes
 - Responsividade
 - Experiência do usuário (UX/UI)
-
----
 
 # 02 · Funcionalidades
 
@@ -62,21 +47,18 @@ O projeto foi desenvolvido com foco no aprendizado de **desenvolvimento Front-En
 | Exportação PNG | Geração da imagem do quadro de horários |
 | Exportação PDF | Conversão do planejamento para documento |
 
----
-
 # 03 · Tecnologias e Conceitos
 
 | Tecnologia | Aplicação |
 |---|---|
 | HTML5 | Estrutura semântica da aplicação |
 | CSS3 | Estilização, Grid, Flexbox e responsividade |
-| JavaScript ES6+ | Lógica, eventos e manipulação dinâmica |
+| JavaScript ES6+ | Lógica, eventos e manipulação |
 | DOM API | Atualização dos elementos da interface |
 | LocalStorage | Persistência dos dados do usuário |
 | SPA | Navegação dinâmica sem recarregamento |
-| UX/UI Design | Construção de uma interface intuitiva |
+| UX/UI Design | Construção da interface |
 
----
 
 # 04 · Considerações Finais
 
